@@ -105,7 +105,7 @@ A RESTful API for managing inventory, products, suppliers, and stock movements.
 ## 🤝 Let's Connect
 
 * Email: vedasteapp@gmail.com
-* Portfolio: [vedaste.tech](vedaste.tech)
+* Portfolio: [vedaste.tech](https://vedaste.tech)
 
 ---
 
