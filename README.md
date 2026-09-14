@@ -84,9 +84,7 @@ A RESTful API for managing inventory, products, suppliers, and stock movements.
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MugaboVedaste\&show_icons=true\&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=github_dark)
 
@@ -106,9 +104,8 @@ A RESTful API for managing inventory, products, suppliers, and stock movements.
 
 ## 🤝 Let's Connect
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Email: YOUR_EMAIL
-* Portfolio: YOUR_WEBSITE
+* Email: vedasteapp@gmail.com
+* Portfolio: vedaste.tech
 
 ---
 
