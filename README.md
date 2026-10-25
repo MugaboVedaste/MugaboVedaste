@@ -86,7 +86,7 @@ A RESTful API for managing inventory, products, suppliers, and stock movements.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MugaboVedaste\&show_icons=true\&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MugaboVedaaste\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MugaboVedaste\&layout=compact\&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MugaboVedaste\&theme=github-dark)
 
